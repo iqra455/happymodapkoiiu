@@ -1,0 +1,135 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>What is Igram World? — All You Need to Know</title>
+  <meta name="description" content="Igram World is a free Instagram downloader that lets you save photos, videos, reels, carousels and IGTV content—no app or signup required. Learn how to use it step-by-step." />
+  <style>
+    /* Simple, clean styling — change as needed */
+    :root{
+      --bg:#ffffff;
+      --card:#f8fafc;
+      --text:#0f172a;
+      --muted:#475569;
+      --accent:#0ea5e9;
+      --radius:12px;
+      font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+    }
+    body{
+      margin:0;
+      background:linear-gradient(180deg,#f7fbfd 0%, var(--bg) 100%);
+      color:var(--text);
+      line-height:1.6;
+      padding:28px;
+    }
+    .container{
+      max-width:900px;
+      margin:0 auto;
+      background:var(--card);
+      border-radius:var(--radius);
+      padding:28px;
+      box-shadow:0 6px 24px rgba(2,6,23,0.06);
+    }
+    h1{
+      margin:0 0 12px 0;
+      font-size:clamp(20px,3.4vw,28px);
+    }
+    .lead{
+      margin:0 0 18px 0;
+      color:var(--muted);
+      font-size:16px;
+    }
+    .section{
+      margin:18px 0;
+    }
+    ul, ol{
+      margin:10px 0 10px 22px;
+    }
+    a.cta{
+      display:inline-block;
+      margin-top:12px;
+      text-decoration:none;
+      padding:10px 14px;
+      border-radius:10px;
+      background:var(--accent);
+      color:white;
+      font-weight:600;
+    }
+    .features{
+      display:grid;
+      grid-template-columns:repeat(auto-fit,minmax(180px,1fr));
+      gap:12px;
+    }
+    .feature{
+      background:white;
+      border-radius:10px;
+      padding:12px;
+      box-shadow:0 2px 8px rgba(2,6,23,0.04);
+      font-size:14px;
+    }
+    footer{ margin-top:18px; color:var(--muted); font-size:13px; }
+    code{ background:#eef2ff; padding:2px 6px; border-radius:6px; font-family:monospace; }
+  </style>
+</head>
+<body>
+  <main class="container" role="main">
+    <header>
+      <h1>What is <a href="https://igram.world" target="_blank" rel="noopener noreferrer">Igram World</a>?</h1>
+      <p class="lead">All You Need to Know About This Helpful Instagram Tool</p>
+    </header>
+
+    <section class="section">
+      <p>If you love Instagram — watching Reels, saving pretty photos, or gathering creative content ideas — I'm sure you've thought about downloading some of the content you like. <strong>Igram World</strong> is the solution to that problem.</p>
+
+      <p><strong>Igram World</strong> is a free Instagram downloader. You can save and download Instagram photos, videos, Reels, and IGTV content. Most importantly, you don’t have to install an application, sign up for a service, or have any complicated technical knowledge.</p>
+    </section>
+
+    <section class="section">
+      <h2>💡 What does Igram World do?</h2>
+      <p>In short: it lets you download Instagram content in a very fast and convenient manner.</p>
+
+      <div class="features" aria-hidden="false">
+        <div class="feature">📸 <strong>Photos</strong> from any public profile</div>
+        <div class="feature">🎥 <strong>Videos & Reels</strong></div>
+        <div class="feature">🖼️ <strong>Carousel posts</strong> (multiple photos in one post)</div>
+        <div class="feature">📺 <strong>IGTV videos</strong></div>
+      </div>
+
+      <p>You simply copy the post link, paste it on the <a href="https://igram.world" target="_blank" rel="noopener noreferrer">Igram World website</a>, and hit the download button. Your file will be ready in just a few seconds.</p>
+    </section>
+
+    <section class="section">
+      <h2>⚙️ How to Use Igram World (Step-by-step)</h2>
+      <ol>
+        <li>Open Instagram on your phone or computer and find the post, reel, or video you want to download.</li>
+        <li>Tap the three dots (⋯) on the post and choose <em>Copy Link</em>.</li>
+        <li>Go to <a href="https://igram.world" target="_blank" rel="noopener noreferrer">https://igram.world</a>.</li>
+        <li>Paste the copied link into the Search bar on the site (<code>Ctrl + V</code> or <code>Command + V</code>).</li>
+        <li>Click the <strong>Download</strong> button — your content will be available instantly.</li>
+      </ol>
+
+      <p><strong>Tip:</strong> To copy a link on desktop you can also highlight the URL and press <code>Ctrl + C</code> (Windows) or <code>Command + C</code> (Mac).</p>
+    </section>
+
+    <section class="section">
+      <h2>✅ Quick Benefits</h2>
+      <ul>
+        <li>No app installation required — works from your browser.</li>
+        <li>No account or signup — privacy-friendly.</li>
+        <li>Fast downloads — usually ready in seconds.</li>
+        <li>Compatible with mobile and desktop devices.</li>
+      </ul>
+    </section>
+
+    <section class="section">
+      <h2>📲 Ready to Try?</h2>
+      <p>Use the tool here: <a class="cta" href="https://igram.world" target="_blank" rel="noopener noreferrer">Open Igram World</a></p>
+    </section>
+
+    <footer>
+      <p>Note: Always respect creators' rights — if you plan to repost someone else's content, give proper credit and follow Instagram's terms and local copyright rules.</p>
+    </footer>
+  </main>
+</body>
+</html>
